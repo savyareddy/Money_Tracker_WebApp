@@ -9,5 +9,5 @@
 
 ## Technologies Used
 
-- **JavaScript:** Back-end for server-side development of web application.
 - **HTML & CSS:** Front-end for a user-friendly interface.
+- **JavaScript:** Back-end for server-side development of web application.
